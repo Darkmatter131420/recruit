@@ -1,0 +1,4 @@
+com\recruit\auth\RecruitAuthApplication.class
+com\recruit\auth\demos\web\BasicController.class
+com\recruit\auth\demos\web\PathVariableController.class
+com\recruit\auth\demos\web\User.class

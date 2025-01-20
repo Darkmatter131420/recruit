@@ -27,6 +27,13 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <!-- 通用模块 -->
+        <dependency>
+            <groupId>com.recruit</groupId>
+            <artifactId>recruit-common</artifactId>
+            <version>${revision}</version>
+        </dependency>
     </dependencies>
 
     <build>

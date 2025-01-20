@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/recruit-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/recruit-framework/recruit-common/pom.xml" />
       </list>
     </option>
   </component>

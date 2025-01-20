@@ -15,5 +15,6 @@
 
     <modules>
         <module>recruit-common</module>
+        <module>recruit-spring-boot-starter-biz-operationlog</module>
     </modules>
 </project>
